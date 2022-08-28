@@ -1,0 +1,41 @@
+body{
+   padding: 100px 500px;  
+}
+
+.first{
+    height: 400px;
+    width: 300px;
+    border-style: solid;
+    border-color: rgb(119, 106, 106);
+    box-shadow: 5px 10px;
+    padding: 50px;
+}
+
+/* form{
+    text-align: center;
+} */
+
+label{
+    text-align: left;
+}
+
+input{
+    width: 250px;
+    height: 35px;
+}
+
+button{
+    color: white;
+    background-color: rgb(56, 56, 197);
+    border: none;
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+/* #id{
+    width: 250px;
+    height: 35px;
+    border-color: black;
+    border: solid 2px;
+} */
